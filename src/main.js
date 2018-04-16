@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import MuseUI from 'muse-ui'
 import 'muse-ui/dist/muse-ui.css'
+import 'lib-flexible/flexible'
 Vue.config.productionTip = false
 // muse-ui
 Vue.use(MuseUI)
